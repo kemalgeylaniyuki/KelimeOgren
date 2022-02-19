@@ -1,0 +1,11 @@
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\KelimeOgren\KelimeOgren\bin\Debug\KelimeOgren.exe.config
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\KelimeOgren\KelimeOgren\bin\Debug\KelimeOgren.exe
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\KelimeOgren\KelimeOgren\bin\Debug\KelimeOgren.pdb
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.csproj.AssemblyReference.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.Form1.resources
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.Properties.Resources.resources
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.csproj.GenerateResource.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.csproj.CoreCompileInputs.cache
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.exe
+C:\Users\kmlgy\OneDrive\Masaüstü\C#\KelimeOgren\KelimeOgren\obj\Debug\KelimeOgren.pdb
